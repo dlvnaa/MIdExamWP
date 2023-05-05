@@ -1,0 +1,13 @@
+.Nav-Anchor-Link {
+    /* border border-secondary-subtle text-decoration-none text-black */
+    color: black;
+}
+
+.Nav-Anchor-Link:hover,
+.Nav-Anchor-Link:hover > a {
+    border: 0px;
+    color: white;
+    background-color: black;
+
+    transition: all ease-in-out 200ms;
+}
