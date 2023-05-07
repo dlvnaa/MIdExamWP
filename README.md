@@ -7,5 +7,5 @@
 Halo, Pak. Di sini contributors terdapat 2 akun, yaitu dlvnaa dan dlvna. Kedua akun tersebut merupakan akun saya, jadi saat ingin melakukan connect laravel ke GitHub memakai akun @gmail.com, sedangkan repository GitHub saya buat memakai akun dengan email @binus.ac.id. Jadi, mohon maaf apabila terdapat 2 contributors pada Mid Exam ini. Terima kasih.
 
 Notes:
-untuk membuka homepage Mr. Vico Lamor tambahkan /1 pada /homepage/1
-untuk membuka homepage Ms. Fei Fei Li tambahkan /2 pada /homepage/2
+- untuk membuka homepage Mr. Vico Lamor tambahkan /1 pada /homepage/1
+- untuk membuka homepage Ms. Fei Fei Li tambahkan /2 pada /homepage/2
